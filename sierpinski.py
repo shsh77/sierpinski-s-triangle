@@ -7,7 +7,6 @@ t.lt(150)
 t.pd()
 i=0
 n=0
-global lay
 lay=[]
 def findmove(s):
   if s==0:
